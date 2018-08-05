@@ -1,2 +1,2 @@
 # simGAN
-simgan network for unity eyes and nyu hands experiments
+In this project, I used SIMGAN network to make the synthetic images more realistic. For this, I used the synthetic images generated from Unity simulator.
